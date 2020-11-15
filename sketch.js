@@ -3,6 +3,7 @@ var dog,happyDog,dog2;
 var database
 var foodS
 var foodStock
+var lastFed;
 function preload()
 {
   happyDog = loadImage("happyDog.png");
